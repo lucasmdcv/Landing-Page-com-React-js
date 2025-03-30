@@ -9,6 +9,9 @@ A principal diferença entre uma landing page e uma página comum de site é que
 
 
 
+![image](https://github.com/user-attachments/assets/f882adbd-1341-4a3a-8dd7-f53c11880c02)
+
+
 
 # Getting Started with Create React App
 
