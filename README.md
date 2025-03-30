@@ -1,3 +1,15 @@
+Uma landing page (ou página de destino) é projetada com o objetivo principal de **converter visitantes em leads ou clientes**. Ela é usada em estratégias de marketing digital para capturar a atenção do usuário e incentivá-lo a realizar uma ação específica. Aqui estão alguns exemplos de suas funções:
+
+- **Captação de leads**: Recolher informações de contato por meio de formulários, como nome e e-mail, em troca de algo de valor, como e-books, webinars ou promoções.
+- **Promoção de produtos ou serviços**: Focar em um único produto, serviço ou oferta para aumentar as conversões.
+- **Anúncios ou lançamentos**: Apresentar um novo produto, serviço ou evento de maneira direta e impactante.
+- **Campanhas publicitárias**: Direcionar usuários vindos de anúncios para uma página específica e otimizada para a conversão.
+
+A principal diferença entre uma landing page e uma página comum de site é que ela é criada com um propósito bem claro e sem distrações, como menus ou links externos, para que o visitante se concentre exclusivamente na ação desejada.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
